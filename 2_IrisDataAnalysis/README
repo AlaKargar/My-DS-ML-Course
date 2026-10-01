@@ -1,0 +1,39 @@
+# Iris Dataset Analysis 🌸
+
+In this notebook, I analyzed the Iris dataset using Python and explored the relationship between petal length and petal width across three different Iris species.
+
+## Dataset
+
+The Iris dataset contains information about three species of Iris flowers:
+- Setosa
+- Versicolor
+- Virginica
+
+Each sample includes features such as:
+- Sepal length
+- Sepal width
+- Petal length
+- Petal width
+
+## Tools & Libraries
+
+- Python
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Analysis
+
+In this project, I performed:
+- Data loading and exploration
+- Statistical analysis
+- Data visualization
+- Scatter plot analysis of petal features
+
+## Visualization
+
+The scatter plot shows the relationship between petal length and petal width, with different colors representing the three Iris species.
+
+## Conclusion
+
+The visualization shows that petal measurements can help distinguish between different Iris species, as some species form clearly separated groups based on their petal features.
